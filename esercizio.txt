@@ -1,0 +1,9 @@
+Oggi pomeriggio provate a ripercorrere i passaggi fatti in classe stamattina, quindi bisogna:
+creare con phpMyAdmin un nuovo database
+creare con phpMyAdmin creare una tabella dresses, definendo le colonne che ritenete più opportune e inserendo qualche riga di dati
+creare un nuovo progetto Laravel
+inserire nel file .env le credenziali di accesso al db
+creare un nuovo model Dress
+creare un controller con una funzione che viene associata ad una rotta e che restituisce la lista di abiti recuperati dal database
+creare una view per stampare i dati
+Nome repo: laravel-fashion-shop
